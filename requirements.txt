@@ -3,4 +3,3 @@ PyPDF2
 wordcloud
 nltk
 matplotlib
--e .
